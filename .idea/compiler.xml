@@ -9,5 +9,11 @@
         <module name="cucumber-java-skeleton" />
       </profile>
     </annotationProcessing>
+<<<<<<< HEAD
+=======
+    <bytecodeTargetLevel>
+      <module name="cucumber-java-skeleton" target="1.8" />
+    </bytecodeTargetLevel>
+>>>>>>> main
   </component>
 </project>
